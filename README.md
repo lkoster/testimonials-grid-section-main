@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click Here](https://github.com/lkoster/testimonials-grid-section-main)
-- Live Site URL: [Click Here](hhttps://lkoster.github.io/testimonials-grid-section-main/)
+- Live Site URL: [Click Here](https://lkoster.github.io/testimonials-grid-section-main/)
 
 ## My process
 
